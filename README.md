@@ -4,3 +4,9 @@ The goal of this project is to create an easier way to find old pictures. The id
 
 
 pip install google-genai
+
+# Todo:
+switch from txt to json?
+make search algorithm
+add tags to pictures?
+Longterm: make an app or website that implements this idea
